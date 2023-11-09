@@ -22,3 +22,8 @@ When you upload *(or create)* a file, there are two options.
    - In this case, the entry will be posted as the name of the file itself. Ex: Let the new file be **MyMarkdownPost/MyPost.ipynb**, then you will find your article posted at **myuser.github.io/MyBlog/MyMarkdownPost/MyPost/**
 
 After you commit the changes, GitHub Actions take care of all the work, and you can enjoy your nice blog <3
+
+# How can I customize it?
+
+You can change the logo and icon of the blog by modifying changing the image files inside the folder **_static**.
+You can also change the title, description and other information of the blog in the file **site.js**.
