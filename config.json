@@ -1,0 +1,12 @@
+{
+    "navbar_items": [
+        {
+            "name": "Contact me",
+            "url": "about:blank"
+        },
+        {
+            "name": "About me",
+            "url": "about:blank"
+        }
+    ]
+}
