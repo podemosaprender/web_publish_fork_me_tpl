@@ -1,3 +1,0 @@
-# nadaaa
-fdssdgdfjghdj
-asdasd
