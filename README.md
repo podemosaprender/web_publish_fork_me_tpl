@@ -27,3 +27,4 @@ After you commit the changes, GitHub Actions take care of all the work, and you 
 
 You can change the logo and icon of the blog by modifying changing the image files inside the folder **_static**.
 You can also change the title, description and other information of the blog in the file **site.js**.
+You can set up navbar links in the config.json file with personal urls like your website, or a link to directly contact you via email, etc. **config.json**
