@@ -1,10 +1,11 @@
 # What is this?
+
 This is a repo that you must fork in order to have your own blog.
 The blog you will generate after forking this repo supports traditional Markdown *(.md)*, MDX *(.mdx)* and Google Collab *(.ipynb)* posts.
 
 # Installation
 
-Just fork this repository.
+Just fork this repository on github.
 
 # How to use it.
 
@@ -26,5 +27,4 @@ After you commit the changes, GitHub Actions take care of all the work, and you 
 # How can I customize it?
 
 You can change the logo and icon of the blog by modifying changing the image files inside the folder **_static**.
-You can also change the title, description and other information of the blog in the file **site.js**.
-You can set up navbar links in the config.json file with personal urls like your website, or a link to directly contact you via email, etc. **config.json**
+You can set up the title and navbar links in the config.json file with personal urls like your website, or a link to directly contact you via email, etc. **config.json**

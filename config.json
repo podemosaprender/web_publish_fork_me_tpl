@@ -1,12 +1,14 @@
 {
-    "navbar_items": [
-        {
-            "name": "Contact me",
-            "url": "about:blank"
-        },
-        {
-            "name": "About me",
-            "url": "about:blank"
-        }
-    ]
+  "name": "XXX:edit config.json",
+  "description": "This is a placeholder description.",
+	"navbar_items": [
+		{
+			"name": "Contact me",
+			"url": "about:blank"
+		},
+		{
+			"name": "About me",
+			"url": "about:blank"
+		}
+	]
 }
