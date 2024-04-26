@@ -1,6 +1,7 @@
 {
   "name": "XXX:edit config.json",
   "description": "This is a placeholder description.",
+  "brand": "MySite",
 	"navbar_items": [
 		{
 			"name": "Contact me",
